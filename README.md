@@ -1,17 +1,27 @@
-## Olá, sou o Matheus
+# Olá, eu sou Matheus Padilha 👋
 
-🎓 **Engenharia de Software** | 💻 **Analista de Suporte (TCS)**
+🎓 Estudante de Engenharia de Software
+💼 Analista de Infraestrutura
+🚀 Focado em DevOps, Cloud Computing e Automação
 
-Estou em transição de carreira para a área de **Engenharia de Dados**. Meu foco é unir minha experiência sólida em Infraestrutura e Linux com desenvolvimento de pipelines de dados e automação.
+## Tecnologias
 
-### 🛠️ Tech Stack & Ferramentas
-* **Linguagens:** Python, SQL, Shell Script (Bash), C++.
-* **Dados:** Pandas, ETL Concepts, SQL Server.
-* **Infraestrutura:** Linux (Arch/Debian), Git, Docker (Basic).
+- Linux
+- Docker
+- Kubernetes
+- Jenkins
+- Git
+- Bash
+- AWS
+- Python
+- Java
+- PHP
 
-### 🚀 O que estou estudando agora
-* Construção de Pipelines de ETL.
-* Automação de rotinas com Python.
-* Big Data Analytics.
+## Atualmente estudando
 
-📫 **Contato:** [https://www.linkedin.com/in/m4theusp4dilha/]
+- Kubernetes
+- ArgoCD
+- GitOps
+- AWS
+- Observabilidade
+- SRE
